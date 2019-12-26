@@ -1,6 +1,6 @@
 # Learning-Website
 ## 团队组织<br>
-[alloyteam](http://www.alloyteam.com/)<br>
+[AlloyTeam](http://www.alloyteam.com/)<br>
 [FEX](http://fex.baidu.com/)<br>
 [EFE](https://efe.baidu.com/)<br>
 [淘宝前端团队（FED）](http://taobaofed.org/)<br>
