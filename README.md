@@ -23,4 +23,13 @@
 [伯乐在线](https://github.com/jobbole)<br>
 [饿了么](https://github.com/ElemeFE)<br>
 [奇舞团](https://github.com/75team/)<br>
-[Tencent](https://github.com/Tencent)<br>
+[Tencent](https://github.com/Tencent)<br><br>
+
+[jQuery](https://github.com/jquery)<br>
+
+
+## Git和GitHub相关教程网站<br>http://git.oschina.net/progit/
+[https://www.liaoxuefeng.com/wiki/896043488029600](https://www.liaoxuefeng.com/wiki/896043488029600)<br>
+[http://git.oschina.net/progit/](http://git.oschina.net/progit/)<br>
+[在github网页版里新建文件夹](https://blog.csdn.net/qq_42249896/article/details/81673074)<br>
+[github上创建博客](https://blog.csdn.net/qq_42249896/article/details/81673074)<br>
